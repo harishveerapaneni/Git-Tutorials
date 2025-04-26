@@ -9,7 +9,7 @@ The download should start automatically.
 Run the installer and accept the default settings (unless you have specific preferences).
 
 ### 2. Verify Installation:
-Open Git Bash or Command Prompt, then type:
+Open **Git Bash** or **Command Prompt**, then type:
 ```js
 bash
 git --version
