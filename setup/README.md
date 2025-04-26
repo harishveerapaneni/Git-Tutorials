@@ -2,11 +2,11 @@
 #  Install and configure Git on your local machine
 ## 🖥️ For Windows:
 ###  1. Download and Install Git:
-Go to https://git-scm.com/download/win
+* Go to https://git-scm.com/download/win
 
-The download should start automatically.
+* The download should start automatically.
 
-Run the installer and accept the default settings (unless you have specific preferences).
+* Run the installer and accept the default settings (unless you have specific preferences).
 
 ### 2. Verify Installation:
 Open **Git Bash** or **Command Prompt**, then type:
@@ -70,18 +70,18 @@ Set your default branch name:
 bash
 git config --global init.defaultBranch main
 ```
-Enable colored output:
+* Enable colored output:
 
 ```js
 bash
 git config --global color.ui auto
 ```
-Check current configuration:
+* Check current configuration:
 ```js
 bash
 git config --list
 ```
-Would you like help setting up SSH keys for GitHub/GitLab too?
+* Would you like help setting up SSH keys for GitHub/GitLab too?
 
 
 
